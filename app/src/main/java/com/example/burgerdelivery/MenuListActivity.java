@@ -102,11 +102,11 @@ public class MenuListActivity extends AppCompatActivity {
         });
     }
 
-   /* @Override
+   @Override
     public boolean onCreateOptionsMenu(Menu menu){
         super.onCreateOptionsMenu(menu);
         getMenuInflater().inflate(R.menu.burger_navbar, menu);
-        android.view.MenuItem menuItem = menu.findItem(R.id.search_bar);
+        /*android.view.MenuItem menuItem = menu.findItem(R.id.search_bar);
         SearchView searchView = (SearchView) MenuItemCompat.getActionView(menuItem);
         searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener(){
             @Override
@@ -118,9 +118,9 @@ public class MenuListActivity extends AppCompatActivity {
                 adapter.getFilter().filter(s);
                 return false;
             }
-        });
+        });*/
         return true;
-    }*/
+    }
 
     @Override
     public boolean onOptionsItemSelected(android.view.MenuItem item){
