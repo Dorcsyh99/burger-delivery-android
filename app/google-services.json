@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633870186723",
+    "project_id": "burger-delivery-app-a5a51",
+    "storage_bucket": "burger-delivery-app-a5a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633870186723:android:92f6670b02db363af92dd6",
+        "android_client_info": {
+          "package_name": "com.example.burgerdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633870186723-346lb9pcl9en58546usqcptmkouuqrtj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.burgerdelivery",
+            "certificate_hash": "a72708b6bed623e9211f9e3bcb028824ede5c628"
+          }
+        },
+        {
+          "client_id": "633870186723-shidifn8c3gv58cq0lqnih12lf44rtah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8kjbF6c8KivZn_PD2OkHKquP5POOORo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633870186723-shidifn8c3gv58cq0lqnih12lf44rtah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

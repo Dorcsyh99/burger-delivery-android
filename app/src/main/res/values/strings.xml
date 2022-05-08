@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Burger Delivery</string>
+    <string name="bejelentkez_s">Bejelentkezés</string>
+    <string name="udvozlunk">Üdvözlünk a Burger Delivery App-ben!</string>
+    <string name="jelentkezz_be">Kérjük, jelentkezz be, hogy rendelhess.</string>
+    <string name="email_c_m">Email cím</string>
+    <string name="regisztr_ci">Regisztráció</string>
+    <string name="felhaszn_l_n_v">Felhasználónév</string>
+    <string name="jelsz">Jelszó</string>
+    <string name="jelsz_jra">Jelszó újra</string>
+    <string name="m_gsem">Mégsem</string>
+    <string name="telefonsz_m">Telefonszám</string>
+    <string name="telefon_t_pusa">Telefon típusa</string>
+    <string name="c_m">Cím</string>
+    <string name="google_bel_p_s">Google belépés</string>
+    <string name="sajtburger">Sajtburger</string>
+    <string name="search">search</string>
+    <string name="Search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="opci_k">Opciók</string>
+    <string name="kijelentkez_s">Kijelentkezés</string>
+    <string-array name="phone_modes">
+        <item>Mobil</item>
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+    </string-array>
+
+    <string-array name="item_name">
+        <item>Sajtburger</item>
+        <item>Bacon-BBQ hamburger</item>
+        <item>Duplahúsos hamburger</item>
+        <item>Vegaburger</item>
+        <item>Sültkrumpli</item>
+        <item>Coca cola</item>
+    </string-array>
+
+    <string-array name="item_desc">
+        <item>Szezámos buci, 100% marhahúspogácsa, 2 szelet cheddar, jégsaláta, paradicsom, lilahagyma, Burger szósz.</item>
+        <item>Szezámos buci, 100% marhahúspogácsa, bacon, cheddar, jégsaláta, paradicsom, lilahagyma, Burger szósz</item>
+        <item>Szezámos buci, 2 db 100% marhahúspogácsa, 2 szelet cheddar, jégsaláta, paradicsom, lilahagyma, BBQ szósz, Burger szósz</item>
+        <item>Kalácsbuci, Zöldségpogácsa, uborka, lilahagyma, paradicsom, jégsaláta, rukkola, Burger szósz</item>
+        <item>Ropogós, sós burgonyahasábok</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="item_price">
+        <item>1590</item>
+        <item>1750</item>
+        <item>2190</item>
+        <item>1690</item>
+        <item>490</item>
+        <item>360</item>
+    </string-array>
+
+    <string-array name="item_images">
+        <item>@drawable/burger</item>
+        <item>@drawable/burger</item>
+        <item>@drawable/burger</item>
+        <item>@drawable/burger</item>
+        <item>@drawable/fries</item>
+        <item>@drawable/cola</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+     >
+
+    <item
+        android:id="@+id/search_bar"
+        android:title="@string/search"
+        app:showAsAction="always"
+        android:icon="@drawable/loupe"
+        android:iconTint="@color/yellow"
+        />
+    <item
+        android:id="@+id/cart"
+        app:showAsAction="always"
+        android:title="@string/cart"
+        android:icon="@drawable/cart"
+        android:iconTint="@color/yellow"
+        />
+    <item android:id="@+id/options"
+        android:title="@string/opci_k"
+        android:icon="@drawable/options"
+        app:showAsAction="always"
+        android:iconTint="@color/yellow"
+        />
+
+</menu>
